@@ -1,5 +1,5 @@
 # debiasing-images
-Project for CS 335.
+Caroline Ho, Hugo Kitano, Kevin Lee.
 
 
 # Install dependencies
